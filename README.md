@@ -22,7 +22,7 @@
 - Physical Engine(`Box2D`) to simulate the movement of billiards.
 - [**impl.**] Graphics pipeline.
 - [**impl.**] Real-time ray tracing. (*Zhengrui Qin* also maintained his `WenTracing` in his [repo](https://github.com/MilesChing/WenTracing))
-- [**merge**] merged using pixel shader. 
+- [**merge**] merged using pixel shader(implemented via fragments shader). 
 
 > The RT procedure produces a `cv::Mat`, and we used it as a texture. Then we combined their colors as follows.
 >
