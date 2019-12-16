@@ -1,16 +1,16 @@
 # Bimulator
 
-> **Course project of CG(2019 fall)**: A billiard simulator using both ray tracing and graphic pipeline.
+> **Course project of CG(2019 fall)**: A billiard simulator using both ray tracing and graphics pipeline.
 
 ## Teamates
 
 **Xiaodong Bi**(@[bxdd](https://github.com/bxdd)) => Framework + Physical Engine(`Box2D`) + Document
 
-**Jiawei Liu**(@[ganler](https://github.com/ganler)) => Graphic Pipeline + Merging + Document
+**Jiawei Liu**(@[ganler](https://github.com/ganler)) => Graphics Pipeline + Merging + Document
 
 **Zhengrui Qin**(@[MilesChing](https://github.com/MilesChing)) =>Ray Tracing + Document
 
-**Xumai Qi** => Graphic Pipeline + Merging + Document
+**Xumai Qi** => Graphics Pipeline + Merging + Document
 
 **Xiaowei Liu** => Document
 
@@ -20,7 +20,7 @@
 
 - Billiard Simulator.
 - Physical Engine(`Box2D`) to simulate the movement of billiards.
-- [**impl.**] Graphic pipeline.
+- [**impl.**] Graphics pipeline.
 - [**impl.**] Real-time ray tracing. (*Zhengrui Qin* also maintained his `WenTracing` in his [repo](https://github.com/MilesChing/WenTracing))
 - [**merge**] merged using pixel shader. 
 
