@@ -1,0 +1,113 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="win32">
+      <UniqueIdentifier>{84a8ebd7-7cf0-47f6-b75e-d441df67da40}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="resource">
+      <UniqueIdentifier>{715254bc-d70b-4ec5-bf29-467dd3ace079}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src">
+      <UniqueIdentifier>{bb6c862e-70e9-49d9-81b7-3829a6f50471}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="game.rc">
+      <Filter>resource</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="AppDelegate.cpp">
+      <Filter>win32</Filter>
+    </ClCompile>
+    <ClCompile Include="ArrowScene.cpp">
+      <Filter>win32</Filter>
+    </ClCompile>
+    <ClCompile Include="BillardBall.cpp">
+      <Filter>win32</Filter>
+    </ClCompile>
+    <ClCompile Include="BillardScene.cpp">
+      <Filter>win32</Filter>
+    </ClCompile>
+    <ClCompile Include="CollisionDetector.cpp">
+      <Filter>win32</Filter>
+    </ClCompile>
+    <ClCompile Include="HeroChoice.cpp">
+      <Filter>win32</Filter>
+    </ClCompile>
+    <ClCompile Include="main.cpp">
+      <Filter>win32</Filter>
+    </ClCompile>
+    <ClCompile Include="myGL.cpp">
+      <Filter>win32</Filter>
+    </ClCompile>
+    <ClCompile Include="Sprite2D.cpp">
+      <Filter>win32</Filter>
+    </ClCompile>
+    <ClCompile Include="glad.c">
+      <Filter>win32</Filter>
+    </ClCompile>
+    <ClCompile Include="OpenGLDraw.cpp">
+      <Filter>win32</Filter>
+    </ClCompile>
+    <ClCompile Include="Paddle.cpp">
+      <Filter>win32</Filter>
+    </ClCompile>
+    <ClCompile Include="ray_tracing.cpp">
+      <Filter>win32</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="AppDelegate.h">
+      <Filter>win32</Filter>
+    </ClInclude>
+    <ClInclude Include="ArrowScene.h">
+      <Filter>win32</Filter>
+    </ClInclude>
+    <ClInclude Include="BillardBall.h">
+      <Filter>win32</Filter>
+    </ClInclude>
+    <ClInclude Include="BillardScene.h">
+      <Filter>win32</Filter>
+    </ClInclude>
+    <ClInclude Include="CollisionDetector.h">
+      <Filter>win32</Filter>
+    </ClInclude>
+    <ClInclude Include="crossable_amp.h">
+      <Filter>win32</Filter>
+    </ClInclude>
+    <ClInclude Include="EnumClass.h">
+      <Filter>win32</Filter>
+    </ClInclude>
+    <ClInclude Include="HeroChoice.h">
+      <Filter>win32</Filter>
+    </ClInclude>
+    <ClInclude Include="main.h">
+      <Filter>win32</Filter>
+    </ClInclude>
+    <ClInclude Include="myGL.h">
+      <Filter>win32</Filter>
+    </ClInclude>
+    <ClInclude Include="NormalDefine.h">
+      <Filter>win32</Filter>
+    </ClInclude>
+    <ClInclude Include="Sprite2D.h">
+      <Filter>win32</Filter>
+    </ClInclude>
+    <ClInclude Include="GlobalVar.h">
+      <Filter>win32</Filter>
+    </ClInclude>
+    <ClInclude Include="OpenGLDraw.h">
+      <Filter>win32</Filter>
+    </ClInclude>
+    <ClInclude Include="Paddle.h">
+      <Filter>win32</Filter>
+    </ClInclude>
+    <ClInclude Include="ray_tracing.h">
+      <Filter>win32</Filter>
+    </ClInclude>
+    <ClInclude Include="ray_tracing_tools_amp.h">
+      <Filter>win32</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
