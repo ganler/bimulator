@@ -4,9 +4,9 @@
 
 ## Teamates
 
-**Xiaodong Bi**(@[bxdd](https://github.com/bxdd)) => Framework + Physical Engine(`Box2D`) + Document
+**Jiawei Liu**(@[ganler](https://github.com/ganler)) => Graphics Pipeline + Merging + Document + Project Management
 
-**Jiawei Liu**(@[ganler](https://github.com/ganler)) => Graphics Pipeline + Merging + Document
+**Xiaodong Bi**(@[bxdd](https://github.com/bxdd)) => Framework + Physical Engine(`Box2D`) + Document
 
 **Zhengrui Qin**(@[MilesChing](https://github.com/MilesChing)) =>Ray Tracing + Document
 
@@ -15,6 +15,8 @@
 **Xiaowei Liu** => Document
 
 **Xin Wen** => Document
+
+> *Our group is advised by [Prof. Junqiao Zhao](https://scholar.google.com/citations?user=KPHJVAwAAAAJ&hl=en). Jiawei and Xiaodong take the lead in this project. 
 
 ## What's this?
 
@@ -30,7 +32,7 @@
 
 ## Scene
 
-> For more details, see [GOOGLE-DRIVE](https://drive.google.com/drive/folders/1zqsDDTTqnVK11VnejBjC5584iCRfDQby?usp=sharing).
+> For more details(demo videos), see [GOOGLE-DRIVE](https://drive.google.com/drive/folders/1zqsDDTTqnVK11VnejBjC5584iCRfDQby?usp=sharing).
 
 <img src="img/img1.png" style="zoom:70%;" />
 
