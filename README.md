@@ -2,7 +2,7 @@
 
 > **Course project of CG(2019 fall)**: A billiard simulator using both ray tracing and graphics pipeline.
 
-## Teamates
+## Group Members
 
 **Jiawei Liu**(@[ganler](https://github.com/ganler)) => Graphics Pipeline + Merging + Document + Project Management
 
@@ -17,8 +17,10 @@
 **Xin Wen** => Document
 
 > *Our group is advised by [Prof. Junqiao Zhao](https://scholar.google.com/citations?user=KPHJVAwAAAAJ&hl=en). Jiawei and Xiaodong take the lead in this project. 
+> *[Course Page](http://cs1.tongji.edu.cn/courses/CS100433/)
+> *[Our project is also available in the course page](http://cs1.tongji.edu.cn/courses/CS100433/CS100433_StudentProjects_2019.html#group5)
 
-## What's this?
+## What is a "bimulator"?
 
 - Billiard Simulator.
 - Physical Engine(`Box2D`) to simulate the movement of billiards.
@@ -26,11 +28,7 @@
 - [**impl.**] Real-time ray tracing. (*Zhengrui Qin* also maintained his `WenTracing` in his [repo](https://github.com/MilesChing/WenTracing))
 - [**merge**] merged using pixel shader(implemented via fragments shader). 
 
-> The RT procedure produces a `cv::Mat`, and we used it as a texture. Then we combined their colors as follows.
->
-> <img src="img/tech1.png" alt="tech1" style="zoom:60%;" />
-
-## Scene
+## Demos
 
 > For more details(demo videos), see [GOOGLE-DRIVE](https://drive.google.com/drive/folders/1zqsDDTTqnVK11VnejBjC5584iCRfDQby?usp=sharing).
 
@@ -38,15 +36,15 @@
 
 <img src="img/img2.png" style="zoom:70%;" />
 
-## Building
+## Compile Me!
 
-### OS
+### Supported OS
 
-- Windows 10
+- This project is developed under Windows 10.
 
-> It seems that it cannot work with Intel's graphic card's power saving mode.
+> *It seems that it cannot work with Intel's graphic card's power saving mode.
 
-### 3rd Party
+### 3rd Parties Dependencies
 
 - AMP
 - OpenCV - 3.20
